@@ -1,9 +1,13 @@
- # A minimalistic AI coding agent in 62 lines of bash
+# A minimalistic AI coding agent in 62 lines of bash
 
-  A tutorial on building an agentic harness in nothing but `bash`, `curl` and `jq`.
-  Each numbered script adds one idea on top of the previous one. The full
-  walkthrough is in [ARTICLE.md](ARTICLE.md) or on
-  [dev.to](https://dev.to/antonum/minimalistic-ai-harness-in-62-lines-of-bash-script-170m).
+A tutorial on building an agentic harness in nothing but `bash`, `curl` and `jq`.
+Each numbered script adds one idea on top of the previous one. The full
+walkthrough is in [ARTICLE.md](ARTICLE.md) or on
+[dev.to](https://dev.to/antonum/minimalistic-ai-harness-in-62-lines-of-bash-script-170m).
+
+Works with any OpenAI-compatible endpoint that supports tool calling, including local models.
+
+![Tetris written and run by the harness](game.png)
 
 ## What you need
 
