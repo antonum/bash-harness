@@ -1,8 +1,9 @@
-# bash-harness
+ # A minimalistic AI coding agent in 62 lines of bash
 
-A tutorial on building an agentic harness in nothing but bash, `curl` and `jq`.
-Each numbered script adds one idea on top of the previous one. The full
-walkthrough is in [ARTICLE.md](ARTICLE.md).
+  A tutorial on building an agentic harness in nothing but `bash`, `curl` and `jq`.
+  Each numbered script adds one idea on top of the previous one. The full
+  walkthrough is in [ARTICLE.md](ARTICLE.md) or on
+  [dev.to](https://dev.to/antonum/minimalistic-ai-harness-in-62-lines-of-bash-script-170m).
 
 ## What you need
 
